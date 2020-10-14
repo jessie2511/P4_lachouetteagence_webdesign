@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("images/texture-paper.jpg");
+    background: url("images/la_chouette_agence_banniere.jpg");
     background-size: 280px 280px;
 }
 
