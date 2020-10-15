@@ -438,6 +438,8 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 24px;
 }
 
 .mg-lg {
@@ -642,16 +644,13 @@ a[data-lightbox]:hover img {
 h1,
 h2,
 h3,
-h4,
-h5,
-h6,
 p,
 label,
 .btn,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757 !important;
+    color: black !important;
 }
 
 .container {
@@ -780,12 +779,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #f3976c;
-    color: #ffffff !important;
+    color: black !important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956 !important;
-    color: #ffffff !important;
+    color: black !important;
 }
 
 .ltc-white {
