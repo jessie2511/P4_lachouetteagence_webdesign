@@ -434,6 +434,12 @@ nav .caret {
     margin: 6px -5px 0 0 !important;
     float: right;
 }
+ #special{
+     background-color: #f3976c;
+     text-align: center;
+     font-size: 24px;
+     font-weight: bold;
+ }
 
 .mg-md {
     margin-top: 10px;
